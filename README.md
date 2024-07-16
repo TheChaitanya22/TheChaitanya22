@@ -1,4 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Chaitanya Goratela</h1>
+<h3 align="center">Crafting Tomorrow's Web: From Frontend to Blockchain, Diving into DevOps</h3>
+
 - 📫 How to reach me **chaitanyagoratela0265@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
