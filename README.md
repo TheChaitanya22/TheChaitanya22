@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Chaitanya Goratela</h1>
-<h3 align="center">Crafting Tomorrow's Web: From Frontend to Blockchain, Diving into DevOps</h3>
+<h3 align="center">Tech Voyager: Navigating the Seas of Web Development, Web3, and DevOps</h3>
 
 - 📫 How to reach me **chaitanyagoratela0265@gmail.com**
 
